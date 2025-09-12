@@ -143,8 +143,6 @@ CLAUDE.md
 .idea/
 
 # VS Code (keep settings.json for Python config)
-.vscode/*
-!.vscode/settings.json
 
 # MacOS
 .DS_Store
